@@ -3,6 +3,9 @@ This repository contains an Indonesian text sentiment analysis application built
 
 This project was developed for my Text Mining class assignment.
 
+## Live Demo
+You can access the live web application here: [satya-asg-textmining-sesi12.streamlit.app](https://satya-asg-textmining-sesi12.streamlit.app/)
+
 ## Model Performance
 The model was trained locally on the Indonesian reviews dataset:
 * **Architecture**: Bidirectional LSTM with word embedding and global average pooling layers.
